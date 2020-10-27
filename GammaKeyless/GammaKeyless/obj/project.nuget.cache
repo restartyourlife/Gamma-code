@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CtcOU63r5/uUmrLYD4KCydOrdieW4OATO4anlgyoExjg92MWsoJ2WhYNl9h3qgPvUFdOErcbSBGRHy3afrSy4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дмитрий\\source\\repos\\GammaKeyless\\GammaKeyless\\GammaKeyless.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

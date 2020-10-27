@@ -1,0 +1,13 @@
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\bin\Debug\netcoreapp3.1\GammaKeyless.exe
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\bin\Debug\netcoreapp3.1\GammaKeyless.deps.json
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\bin\Debug\netcoreapp3.1\GammaKeyless.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\bin\Debug\netcoreapp3.1\GammaKeyless.runtimeconfig.dev.json
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\bin\Debug\netcoreapp3.1\GammaKeyless.dll
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\bin\Debug\netcoreapp3.1\GammaKeyless.pdb
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\obj\Debug\netcoreapp3.1\GammaKeyless.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\obj\Debug\netcoreapp3.1\GammaKeyless.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\obj\Debug\netcoreapp3.1\GammaKeyless.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\obj\Debug\netcoreapp3.1\GammaKeyless.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\obj\Debug\netcoreapp3.1\GammaKeyless.dll
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\obj\Debug\netcoreapp3.1\GammaKeyless.pdb
+C:\Users\Дмитрий\source\repos\GammaKeyless\GammaKeyless\obj\Debug\netcoreapp3.1\GammaKeyless.genruntimeconfig.cache
